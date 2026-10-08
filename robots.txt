@@ -16,3 +16,4 @@ Allow: /
 # Disallow: /
 
 # Sitemap satırı alan adı belli olunca scripts/seo-dosyalari.mjs tarafından eklenir (alan adı uydurulmaz).
+Sitemap: https://drfeyyazbay.com/sitemap.xml
