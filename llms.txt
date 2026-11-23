@@ -55,6 +55,8 @@ Pazartesi–Cuma 08:00–17:00; Cumartesi 08:00–12:00; Pazar kapalı. (Dr. Bay
 - [Yağlı Karaciğer (MASLD) Nedir?](https://drfeyyazbay.com/dahiliye/yagli-karaciger/): Yağlı karaciğer (MASLD) nedir, kimlerde görülür, nasıl değerlendirilir? Güncel EASL 2024 kılavuzuna dayanan genel bilgilendirme.
 - [Hepatit B ve Hepatit C](https://drfeyyazbay.com/dahiliye/hepatit-b-c/): Hepatit B ve C nedir, Türkiye'de ne kadar sık, hangi testlerle anlaşılır? EASL kılavuzları ve TURHEP çalışmasına dayanan genel bilgilendirme.
 - [Pankreas Yağlanması Nedir?](https://drfeyyazbay.com/dahiliye/yagli-pankreas/): Ultrasonda \"pankreas yağlanması\" raporu ne anlama gelir? Sıklığı, ilişkili hastalıklar ve izlem üzerine kaynaklı genel bilgilendirme.
+- [Pankreas Yağlanması Tanısı](https://drfeyyazbay.com/dahiliye/yagli-pankreas-tani/): Ultrason, BT, MR ve endoskopik ultrason pankreas yağlanmasını ne kadar gösterir? Raporu doğru okumak için kaynaklı genel bilgilendirme.
+- [Pankreas Yağlanması ve Diyabet](https://drfeyyazbay.com/dahiliye/yagli-pankreas-diyabet/): Pankreas yağlanması şeker hastalığı riskini artırır mı? İnsülin salgısı, kilo kaybı ve metabolik hastalıklarla ilişkisi üzerine kaynaklı genel bilgilendirme.
 - [Reflü (Gastroözofageal Reflü)](https://drfeyyazbay.com/dahiliye/reflu/): Reflü nedir, hangi belirtiler endoskopi gerektirir, mide koruyucu ilaçlar ne kadar kullanılır? ACG 2022 kılavuzuna dayanan genel bilgilendirme.
 - [Helicobacter pylori Mide Mikrobu](https://drfeyyazbay.com/dahiliye/helicobacter-pylori/): Mide mikrobu H. pylori nedir, nasıl araştırılır, neden tedavi edilir? Maastricht VI/Floransa uzlaşı raporuna dayanan genel bilgilendirme.
 
