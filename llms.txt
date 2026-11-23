@@ -33,4 +33,45 @@ Pazartesi–Cuma 08:00–17:00; Cumartesi 08:00–12:00; Pazar kapalı. (Dr. Bay
 - [İletişim](https://drfeyyazbay.com/iletisim/): adres, santral telefonu, e-posta, çalışma saatleri
 - [English](https://drfeyyazbay.com/en/): English version
 
+## Dahiliye konuları (hasta bilgilendirme yazıları, Türkçe)
+
+### Şeker, hormon ve metabolizma
+
+- [Tip 2 Diyabet (Şeker Hastalığı)](https://drfeyyazbay.com/dahiliye/tip-2-diyabet/): Tip 2 diyabet nasıl tanınır, hangi değerler izlenir, hangi kontroller yapılır? TEMD ve ADA 2026 kılavuzlarına dayanan genel bilgilendirme.
+- [İnsülin Direnci ve Prediyabet](https://drfeyyazbay.com/dahiliye/insulin-direnci-prediyabet/): İnsülin direnci ve prediyabet nedir, nasıl anlaşılır, diyabete ilerleme önlenebilir mi? TEMD ve ADA 2026 kılavuzlarına dayanan genel bilgilendirme.
+- [Obezite ve Metabolik Sendrom](https://drfeyyazbay.com/dahiliye/obezite-metabolik-sendrom/): Obezite nasıl tanımlanır, bel çevresi kaç olmalı, metabolik sendrom nedir? TEMD Obezite Tanı ve Tedavi Kılavuzu'na dayanan genel bilgilendirme.
+- [Tiroid Hastalıkları ve Nodül](https://drfeyyazbay.com/dahiliye/tiroid/): Tiroid bezinin az veya fazla çalışması ve tiroid nodülü nedir, nasıl değerlendirilir? TEMD 2025 kılavuzuna dayanan genel bilgilendirme.
+- [Yüksek Kolesterol: LDL Hedefi](https://drfeyyazbay.com/dahiliye/yuksek-kolesterol/): LDL kolesterol hedefi neden kişiden kişiye değişir, kolesterol tahlili nasıl yorumlanır? ESC/EAS kılavuzuna dayanan genel bilgilendirme.
+- [Gut ve Ürik Asit Yüksekliği](https://drfeyyazbay.com/dahiliye/gut/): Gut hastalığı nedir, ürik asit kaç olmalı, atak ve uzun dönem tedavide nelere dikkat edilir? EULAR kılavuzuna dayanan genel bilgilendirme.
+
+### Tansiyon ve böbrek
+
+- [Yüksek Tansiyon (Hipertansiyon)](https://drfeyyazbay.com/dahiliye/yuksek-tansiyon/): Tansiyon kaç olmalı, evde nasıl ölçülür, hipertansiyon tanısı nasıl konur? ESC 2024 ve TEMD 2022 kılavuzlarına dayanan genel bilgilendirme.
+- [Kronik Böbrek Hastalığı ve eGFR](https://drfeyyazbay.com/dahiliye/bobrek-fonksiyonlari/): Kreatinin, eGFR ve idrarda albümin ne anlama gelir? Kronik böbrek hastalığı kimlerde araştırılır? KDIGO 2024 kılavuzuna dayanan genel bilgilendirme.
+
+### Sindirim sistemi ve karaciğer
+
+- [Yağlı Karaciğer (MASLD) Nedir?](https://drfeyyazbay.com/dahiliye/yagli-karaciger/): Yağlı karaciğer (MASLD) nedir, kimlerde görülür, nasıl değerlendirilir? Güncel EASL 2024 kılavuzuna dayanan genel bilgilendirme.
+- [Hepatit B ve Hepatit C](https://drfeyyazbay.com/dahiliye/hepatit-b-c/): Hepatit B ve C nedir, Türkiye'de ne kadar sık, hangi testlerle anlaşılır? EASL kılavuzları ve TURHEP çalışmasına dayanan genel bilgilendirme.
+- [Pankreas Yağlanması Nedir?](https://drfeyyazbay.com/dahiliye/yagli-pankreas/): Ultrasonda \"pankreas yağlanması\" raporu ne anlama gelir? Sıklığı, ilişkili hastalıklar ve izlem üzerine kaynaklı genel bilgilendirme.
+- [Reflü (Gastroözofageal Reflü)](https://drfeyyazbay.com/dahiliye/reflu/): Reflü nedir, hangi belirtiler endoskopi gerektirir, mide koruyucu ilaçlar ne kadar kullanılır? ACG 2022 kılavuzuna dayanan genel bilgilendirme.
+- [Helicobacter pylori Mide Mikrobu](https://drfeyyazbay.com/dahiliye/helicobacter-pylori/): Mide mikrobu H. pylori nedir, nasıl araştırılır, neden tedavi edilir? Maastricht VI/Floransa uzlaşı raporuna dayanan genel bilgilendirme.
+
+### Kan değerleri
+
+- [Demir Eksikliği Anemisi](https://drfeyyazbay.com/dahiliye/demir-eksikligi-anemisi/): Ferritin düşüklüğü ve demir eksikliği anemisi nedir, nedeni neden araştırılır? BSG 2021 kılavuzuna dayanan genel bilgilendirme.
+- [B12 Vitamini Eksikliği](https://drfeyyazbay.com/dahiliye/b12-eksikligi/): B12 eksikliği hangi belirtileri verir, kimlerde görülür, nasıl değerlendirilir? NICE NG239 (2024) kılavuzuna dayanan genel bilgilendirme.
+
+### Ateş ve enfeksiyonlar
+
+- [Erişkinde Ateş ve Enfeksiyonlar](https://drfeyyazbay.com/dahiliye/ates-ve-enfeksiyon/): Erişkinde ateş ne zaman tehlikelidir, her enfeksiyonda antibiyotik gerekir mi, yaşlılarda enfeksiyon neden farklı seyreder? Kılavuzlara dayanan genel bilgilendirme.
+- [İdrar Yolu Enfeksiyonu](https://drfeyyazbay.com/dahiliye/idrar-yolu-enfeksiyonu/): İdrar yolu enfeksiyonu belirtileri nelerdir, ne zaman acildir, idrarda bakteri her zaman tedavi gerektirir mi? IDSA kılavuzlarına dayanan bilgilendirme.
+
+### Koruyucu sağlık ve ilaç kullanımı
+
+- [Erişkinde Koruyucu Taramalar](https://drfeyyazbay.com/dahiliye/koruyucu-taramalar/): Erişkinlerde tansiyon, şeker, kolesterol, böbrek ve ulusal kanser taramaları: yaşa ve kişisel riske göre genel bilgilendirme.
+- [Yaşlılarda Çoklu İlaç Kullanımı](https://drfeyyazbay.com/dahiliye/yaslilarda-ilac-kullanimi/): Yaşlılarda çok sayıda ilaç kullanmak hangi riskleri taşır, ilaçlar nasıl gözden geçirilir? STOPP/START ve AGS Beers ölçütlerine dayanan genel bilgilendirme.
+
+Her konu sayfasında yazar (Uzm. Dr. Feyyaz Bay), son içerik güncellemesi tarihi ve kaynak listesi yer alır.
+
 Bu sitedeki bilgiler genel bilgilendirme amaçlıdır; kişisel tanı ve tedavi yerine geçmez. Acil durumlarda 112 aranmalıdır.
