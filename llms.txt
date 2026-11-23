@@ -10,6 +10,12 @@
 - E-posta (Dr. Bay): feyyazbay@gmail.com
 - Instagram: https://www.instagram.com/bay_feyyaz/
 
+## Akademik kimlik
+
+- ORCID: https://orcid.org/0000-0001-7543-4020
+- Google Scholar: https://scholar.google.com/citations?user=riWzkvEAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Feyyaz-Bay
+
 ## Çalışma saatleri
 
 Pazartesi–Cuma 08:00–17:00; Cumartesi 08:00–12:00; Pazar kapalı. (Dr. Bay'ın bildirimi, 17 Ekim 2026.)
@@ -22,7 +28,8 @@ Pazartesi–Cuma 08:00–17:00; Cumartesi 08:00–12:00; Pazar kapalı. (Dr. Bay
 ## Sayfalar
 
 - [Ana sayfa](https://drfeyyazbay.com/): hekim bilgisi, organ sistemleri, sık sorulan sorular
-- [Hakkımda](https://drfeyyazbay.com/hakkimda/): eğitim, görev yerleri, seçilmiş yayınlar
+- [Hakkımda](https://drfeyyazbay.com/hakkimda/): eğitim, görev yeri, seçilmiş yayınlar, akademik profiller
+- [Dahiliye konuları](https://drfeyyazbay.com/dahiliye/): iç hastalıkları konularında hasta bilgilendirme yazıları
 - [İletişim](https://drfeyyazbay.com/iletisim/): adres, santral telefonu, e-posta, çalışma saatleri
 - [English](https://drfeyyazbay.com/en/): English version
 
